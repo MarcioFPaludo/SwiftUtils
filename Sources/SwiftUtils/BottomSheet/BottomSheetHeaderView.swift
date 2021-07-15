@@ -28,7 +28,6 @@ public class BottomSheetHeaderView: UIView {
     required init?(coder: NSCoder) {
         super.init(coder: coder)
         initialize()
-        
     }
     
     private func initialize() {
